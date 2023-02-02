@@ -1,5 +1,5 @@
 ## Chedy Chaaben
-## [![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Earth&color=4285F4&logo=Google+Earth&logoColor=FFFFFF&label=)](https://chedychaaben.com/)
+## [![Website](https://img.shields.io/static/v1?style=for-the-badge&message=website&color=4285F4&logo=Google+Earth&logoColor=FFFFFF&label=)](https://chedychaaben.com/)
 
 Programming languages:
 [![Python](https://img.shields.io/badge/-Python-056676?style=flat&logo=Python&labelColor=000)](https://www.python.org/)
@@ -8,7 +8,7 @@ Programming languages:
 
 Frameworks & Libraries:
 [![Django](https://img.shields.io/badge/-Django-056676?style=flat&logo=django&labelColor=000)](https://www.djangoproject.com/)
-[![FastAPI](https://img.shields.io/badge/-Fastapi-056676?style=flat&logo=fastapi&labelColor=000)h](ttps://fastapi.tiangolo.com/)
+[![FastAPI](https://img.shields.io/badge/-Fastapi-056676?style=flat&logo=fastapi&labelColor=000)](ttps://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/-React-056676?style=flat&logo=react&labelColor=000)](https://reactjs.org/)
 
 
