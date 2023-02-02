@@ -1,6 +1,4 @@
-## 💻
-### Chedy Chaaben  &nbsp; &nbsp; [![Linkedin](https://static.licdn.com/sc/h/8s162nmbcnfkg7a0k8nq9wwqo)](https://www.linkedin.com/in/chedy-chaaben-154391157/)
-## 💻
+## Chedy Chaaben
 
 Programming languages:
 ![Python](https://img.shields.io/badge/-Python-056676?style=flat&logo=Python&labelColor=000)
@@ -14,6 +12,6 @@ Libraries/frameworks:
 
 
 Tools and Services:
+![GithubActions](https://img.shields.io/badge/-GithubActions-056676?style=flat&logo=githubactions&labelColor=000)
 ![Docker](https://img.shields.io/badge/-Docker-056676?style=flat&logo=Docker&labelColor=000)
 ![AWS](https://img.shields.io/badge/-AWS-056676?style=flat&logo=amazon&labelColor=000)
-![GithubActions](https://img.shields.io/badge/-GithubActions-056676?style=flat&logo=githubactions&labelColor=000)
