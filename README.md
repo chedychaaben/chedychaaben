@@ -1,16 +1,19 @@
-### Hi there 👋
+## 💻
+### Chedy Chaaben  &nbsp; &nbsp; [![Linkedin](https://static.licdn.com/sc/h/8s162nmbcnfkg7a0k8nq9wwqo)](https://www.linkedin.com/in/chedy-chaaben-154391157/)
+## 💻
 
-<!--
-**chedychaaben/chedychaaben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming languages:
+![Python](https://img.shields.io/badge/-Python-056676?style=flat&logo=Python&labelColor=000)
+![javascript](https://img.shields.io/badge/-javascript-056676?style=flat&logo=javascript&labelColor=000)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Libraries/frameworks:
+![Django](https://img.shields.io/badge/-Django-056676?style=flat&logo=django&labelColor=000)
+![Fastapi](https://img.shields.io/badge/-Fastapi-056676?style=flat&logo=fastapi&labelColor=000)
+![React](https://img.shields.io/badge/-React-056676?style=flat&logo=react&labelColor=000)
+
+
+Tools and Services:
+![Docker](https://img.shields.io/badge/-Docker-056676?style=flat&logo=Docker&labelColor=000)
+![AWS](https://img.shields.io/badge/-AWS-056676?style=flat&logo=amazon&labelColor=000)
+![GithubActions](https://img.shields.io/badge/-GithubActions-056676?style=flat&logo=githubactions&labelColor=000)
