@@ -1,12 +1,12 @@
 ```
-|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
-| Don't Push To Production On Friday   |
-|＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
+|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+| Don't Push To Production On Friday      |
+|＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
                      \ (•◡•) / 
-                       \      / 
-                        ——
-                        |     |
-                        |_   |_
+                       \    / 
+                        ————
+                       |    |
+                       |_   |_
 ``` 
 
 # Hi there! I'm Chedy
