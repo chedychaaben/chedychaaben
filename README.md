@@ -27,7 +27,7 @@ I'm an enthusiastic **data engineer** with over four years of experience in data
 **Advanced SQL: MySQL for Ecommerce & Web Analytics**, Udemy, February 2024, [🔗 see certificate]()  
 Skills: MySQL · SQL
 
-**AWS Certified Cloud Practitioner**, AWS, January 2024, [🔗 see certificate]([https://www.credly.com/badges/3287f8a9-0dcd-48d2-afc3-c255faf027bc/public_url](https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner))  
+**AWS Certified Cloud Practitioner**, AWS, January 2024, [🔗 see certificate](https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner)  
 Skills: Amazon Web Services (AWS) 
 
 **Python for Machine Learning & Data Science Masterclass**, Udemy, March 2023, [🔗 see certificate]()  
