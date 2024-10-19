@@ -24,13 +24,13 @@ I'm an enthusiastic **data engineer** with over four years of experience in data
 <!-- COURSE CERTIFICATES -->
 ## 🏅 Course Certificates
 
-**Advanced SQL: MySQL for Ecommerce & Web Analytics**, Udemy, February 2024, [🔗 see certificate](https://www.udemy.com/certificate/UC-ac04dd78-4589-4b2e-a863-7722cd78ec2f/)  
+**Advanced SQL: MySQL for Ecommerce & Web Analytics**, Udemy, February 2024, [🔗 see certificate]()  
 Skills: MySQL · SQL
 
-**AWS Certified Cloud Practitioner**, AWS, January 2024, [🔗 see certificate](https://www.credly.com/badges/3287f8a9-0dcd-48d2-afc3-c255faf027bc/public_url)  
+**AWS Certified Cloud Practitioner**, AWS, January 2024, [🔗 see certificate]([https://www.credly.com/badges/3287f8a9-0dcd-48d2-afc3-c255faf027bc/public_url](https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner))  
 Skills: Amazon Web Services (AWS) 
 
-**Python for Machine Learning & Data Science Masterclass**, Udemy, March 2023, [🔗 see certificate](https://www.udemy.com/certificate/UC-4de79ac0-2282-45c9-93e1-a7cb6f812592/)  
+**Python for Machine Learning & Data Science Masterclass**, Udemy, March 2023, [🔗 see certificate]()  
 Skills: Decision Trees · Support Vector Machine (SVM) · Matplotlib · Random Forest · Naive Bayes · NumPy · Seaborn · Hierarchical Clustering · Natural Language Processing (NLP) · Pandas · Python · Linear Regression · Scikit-Learn · Logistic Regression · Principal Component Analysis · Gradient Boosting · DBSCAN · k-means clustering · K-Nearest Neighbors (KNN)
 
 <!-- MARKDOWN LINKS -->
