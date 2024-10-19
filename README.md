@@ -1,3 +1,13 @@
+|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+| Don't Push To Production On Friday   |
+|＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
+                     \ (•◡•) / 
+                       \      / 
+                        ——
+                        |     |
+                        |_   |_
+
+
 # Hi there! I'm Chedy
 
 <!-- ABOUT ME -->
