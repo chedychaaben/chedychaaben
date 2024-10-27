@@ -21,7 +21,7 @@ I'm an enthusiastic **data engineer** with over four years of experience in data
 
 | Category                 | Skill    |
 | ------------------------ | -------- |
-| Programming              | [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] |
+| Programming              | [![Python][Python-badge]][Python-url]|
 | Data Manipulation        | [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] |
 | Data Visualization       | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url] [![Power BI][PowerBI-badge]][PowerBI-url] |
 | AI & Machine Learning    | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] |
@@ -29,7 +29,7 @@ I'm an enthusiastic **data engineer** with over four years of experience in data
 | Cloud                    | [![AWS][AWS-badge]][AWS-url] |
 | DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
 | Version Control          | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
-| Web Development          | [![Flask][Flask-badge]][Flask-url] [![Django][Django-badge]][Django-url] |
+| Web Development          | [![Django][Django-badge]][Django-url] [![FastAPI][FastAPI-badge]][FastAPI-url] |
 | Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] |
 
 <!-- COURSE CERTIFICATES -->
@@ -51,14 +51,14 @@ Skills: Decision Trees · Support Vector Machine (SVM) · Matplotlib · Random F
 [AWS-url]: https://aws.amazon.com/
 [Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
-[Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
-[Flask-url]: https://flask.palletsprojects.com/en/2.3.x/
+[FastAPI-badge]: https://img.shields.io/badge/fastapi-%23000.svg?style=for-the-badge&logo=fastapi&logoColor=white
+[FastAPI-url]: https://fastapi.tiangolo.com/
+[Django-badge]: https://img.shields.io/badge/Django-%23000.svg?style=for-the-badge&logo=django&logoColor=white
+[Django-url]: https://djangoproject.com/
 [Git-badge]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
 [GitHub-badge]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/
-[Gradio-badge]: https://img.shields.io/badge/Gradio-fc7404?style=for-the-badge&logoColor=white
-[Gradio-url]: https://gradio.app
 [HuggingFace-badge]: https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black
 [HuggingFace-url]: https://huggingface.co/
 [JupyterNotebook-badge]: https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white
