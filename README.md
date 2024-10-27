@@ -29,7 +29,7 @@ I'm an enthusiastic **data engineer** with over four years of experience in data
 | Cloud                    | [![AWS][AWS-badge]][AWS-url] |
 | DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
 | Version Control          | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
-| Web Development          | [![Flask][Flask-badge]][Flask-url] [![Gradio][Gradio-badge]][Gradio-url] |
+| Web Development          | [![Flask][Flask-badge]][Flask-url] [![Django][Django-badge]][Django-url] |
 | Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] |
 
 <!-- COURSE CERTIFICATES -->
