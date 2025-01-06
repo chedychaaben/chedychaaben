@@ -1,19 +1,18 @@
 ```
-                                                                  |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
-                                                                  | Don't Push To Production On Friday       |
-                                                                  |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
-                                                                                       \ (•◡•) / 
-                                                                                         \    / 
-                                                                                          ————
-                                                                                         |    |
-                                                                                         |_   |_
+      |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+      | Don't Push To Production On Friday       |
+      |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
+                           \ (•◡•) / 
+                             \    / 
+                              ————
+                             |    |
+                             |_   |_
 ``` 
 
 <h2> Hello there, I'm Chedy Chaaben <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2> 
 
 <!-- ABOUT ME -->
-## 👋 About Me
-I am an enthusiastic **2nd-Year Engineering Student** with 2 years of professional experience in data analysis, web development, and cloud computing. I have a passion for solving challenging problems, leveraging automation to uncover valuable insights, and streamlining complex tasks with efficient solutions.
+I am an enthusiastic **2nd-Year Engineering Student** with a strong preference for backend development, particularly in designing and building RESTful APIs and intrested about data engineering and ai. I am experienced in creating distributed, scalable systems using Django, ReactJS, SQL.
 
 
 <!-- SKILLS -->
