@@ -9,11 +9,11 @@
                                                                                          |_   |_
 ``` 
 
-# Hi there! I'm Chedy
+<h2> Hello there, I'm Chedy Chaaben <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2> 
 
 <!-- ABOUT ME -->
 ## 👋 About Me
-I'm an enthusiastic **data engineer** with over four years of experience in data analysis, web development, and cloud. I enjoy solving challenging problems, harnessing the power of automation to derive valuable insights, and effectively automate complex tasks.
+I am an enthusiastic **2nd-Year Engineering Student** with 2 years of professional experience in data analysis, web development, and cloud computing. I have a passion for solving challenging problems, leveraging automation to uncover valuable insights, and streamlining complex tasks with efficient solutions.
 
 
 <!-- SKILLS -->
