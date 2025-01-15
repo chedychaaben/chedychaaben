@@ -31,18 +31,6 @@ I am an enthusiastic **2nd-Year Engineering Student** with a strong preference f
 | Web Development          | [![Django][Django-badge]][Django-url] [![FastAPI][FastAPI-badge]][FastAPI-url] |
 | Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] |
 
-<!-- COURSE CERTIFICATES -->
-## 🏅 Course Certificates
-
-**Advanced SQL: MySQL for Ecommerce & Web Analytics**, Udemy, February 2024, [🔗 see certificate]()  
-Skills: MySQL · SQL
-
-**AWS Certified Cloud Practitioner**, AWS, January 2024, [🔗 see certificate](https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner)  
-Skills: Amazon Web Services (AWS) 
-
-**Python for Machine Learning & Data Science Masterclass**, Udemy, March 2023, [🔗 see certificate]()  
-Skills: Decision Trees · Support Vector Machine (SVM) · Matplotlib · Random Forest · Naive Bayes · NumPy · Seaborn · Hierarchical Clustering · Natural Language Processing (NLP) · Pandas · Python · Linear Regression · Scikit-Learn · Logistic Regression · Principal Component Analysis · Gradient Boosting · DBSCAN · k-means clustering · K-Nearest Neighbors (KNN)
-
 <!-- MARKDOWN LINKS -->
 [Airflow-badge]: https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white
 [Airflow-url]: https://airflow.apache.org/
