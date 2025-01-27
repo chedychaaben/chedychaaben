@@ -1,78 +1,137 @@
+# 👋 Hello, World! 
+
+I'm Chedy.
+
+- Backend Developer 🖥️
+- Data Engineer 🛠️
+- Data Scientist 📊
+- Cloud Engineer ☁️
+---
+
+## 🌟 About Me
+
+- Passionate about **video games, sports, and music!**
+- Currently learning **aws & deep learning**.
+
+---
+
+## 🚧 Projects
+
+- **[Private Repo]():** Private Repo. **[And here's the repo]().**
+
+---
+
+## 🛠️ Tech Stack
+
+
+###  Languages
+- ![Python](https://img.shields.io/badge/Python-0A1468?style=for-the-badge&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-D36601?style=for-the-badge&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/C-6295CB?style=for-the-badge&logo=c&logoColor=white)
+- ![Csharp](https://img.shields.io/badge/csharp-95478E?style=for-the-badge&logo=c&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-B2CD30?style=for-the-badge&logo=sql&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🖥️ Web Frameworks
+
+### Backend Frameworks
+- ![Django](https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=Django&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-059286?style=for-the-badge&logo=fastapi&logoColor=white)
+- ![ASP.NET](https://img.shields.io/badge/ASP.NET-3D93E5?style=for-the-badge&logo=.net&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-E83527?style=for-the-badge&logo=laravel&logoColor=white)
+- ![Django Rest Framework](https://img.shields.io/badge/Django_REST_Framework-155063?style=for-the-badge&logo=django&logoColor=white)
+- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Frontend Frameworks
+- ![React](https://img.shields.io/badge/React-48CEF7?style=for-the-badge&logo=react&logoColor=white)
+- ![Material-UI](https://img.shields.io/badge/Material--UI-0073E6?style=for-the-badge)
+- ![Swagger-UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+
+---
+
+## ☁️ Cloud & Deployment
+- ![AWS](https://img.shields.io/badge/AWS-141F2E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-008CDB?style=for-the-badge&logo=docker&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- ![OVH](https://img.shields.io/badge/Ovh-25446C?style=for-the-badge&logo=ovh&logoColor=white)
+- ![Heroku](https://img.shields.io/badge/Heroku-410093?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
+
+## 📊 Data Science & Visualization
+
+### Data Analysis Libraries
+- ![Pandas](https://img.shields.io/badge/Pandas-120751?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Numpy](https://img.shields.io/badge/NumPy-4B73C9?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Machine Learning Frameworks
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F09437?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Visualization Tools
+- ![Seaborn](https://img.shields.io/badge/Seaborn-59799D?style=for-the-badge&logo=Seaborn&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-105278?style=for-the-badge&logo=matplotlib&logoColor=white)
+- ![Plotly](https://img.shields.io/badge/Plotly-272C31?style=for-the-badge&logo=plotly&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/powerbi-E6B12E?style=for-the-badge&logo=powerbi&logoColor=white)
+
+---
+
+## 🗄️ Databases
+### SQL-Based
+- ![SQL Server](https://img.shields.io/badge/SQL_Server-DBDBBF?style=for-the-badge&logo=microsoft&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-12608F?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/Oracle-C14432?style=for-the-badge&logo=oracle&logoColor=white)
+
+### NoSQL Databases
+- ![MongoDB](https://img.shields.io/badge/MongoDB-006548?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Reddis](https://img.shields.io/badge/Reddis-9F1D10?style=for-the-badge&logo=reddis&logoColor=white)
+
+---
+
+### ETL
+- ![SSIS](https://img.shields.io/badge/SSIS-EDEAE2?style=for-the-badge&logo=ssis&logoColor=white)
+
+
+## 🛠️ Automation and Testing
+- ![Selenium](https://img.shields.io/badge/Selenium-41AA29?style=for-the-badge&logo=selenium&logoColor=white)
+
+- ![Beautifulsoup](https://img.shields.io/badge/Beautifulsoup-000000?style=for-the-badge&logo=Beautifulsoup&logoColor=white)
+
+---
+
+## 📑 Reporting & Documentation
+- ![LaTeX](https://img.shields.io/badge/LaTeX-138A07?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+## 💬 Communication & Collaboration Tools
+- ![Zoom](https://img.shields.io/badge/Zoom-0096F7?style=for-the-badge&logo=zoom&logoColor=white)
+- ![Slack](https://img.shields.io/badge/Slack-481449?style=for-the-badge&logo=slack&logoColor=white)
+- ![Google Meet](https://img.shields.io/badge/Google_Meet-F2BB2C?style=for-the-badge&logo=gmeet&logoColor=white)
+- ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-777EE3?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 💻 Preferred IDE
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌐 Let's Connect! 
+- 📫 How to reach me: chedy@chaaben.com
+---
+
+
 ```
-      |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
-      | Don't Push To Production On Friday       |
-      |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
+      |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+      | AI is far more dangerous than nukes.         |
+      |______________________________________________|
                            \ (•◡•) / 
                              \    / 
                               ————
                              |    |
-                             |_   |_
+                             |_   |_                                                                                                            - Elon Musk
 ``` 
-
-<h2> Hello there, I'm Chedy Chaaben <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2> 
-
-<!-- ABOUT ME -->
-I am an enthusiastic **2nd-Year Engineering Student** with a strong preference for backend development, particularly in designing and building RESTful APIs and intrested about data engineering and ai. I am experienced in creating distributed, scalable systems using Django, ReactJS, SQL.
-
-
-<!-- SKILLS -->
-## 🛠️ Skills
-
-| Category                 | Skill    |
-| ------------------------ | -------- |
-| Programming              | [![Python][Python-badge]][Python-url]|
-| Data Manipulation        | [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] |
-| Data Visualization       | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url] [![Power BI][PowerBI-badge]][PowerBI-url] |
-| AI & Machine Learning    | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] |
-| Big Data                 | [![Spark][Spark-badge]][Spark-url] |
-| Cloud                    | [![AWS][AWS-badge]][AWS-url] |
-| DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
-| Version Control          | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
-| Web Development          | [![Django][Django-badge]][Django-url] [![FastAPI][FastAPI-badge]][FastAPI-url] |
-| Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] |
-
-<!-- MARKDOWN LINKS -->
-[Airflow-badge]: https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white
-[Airflow-url]: https://airflow.apache.org/
-[AWS-badge]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-[AWS-url]: https://aws.amazon.com/
-[Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com/
-[FastAPI-badge]: https://img.shields.io/badge/fastapi-%23000.svg?style=for-the-badge&logo=fastapi&logoColor=white
-[FastAPI-url]: https://fastapi.tiangolo.com/
-[Django-badge]: https://img.shields.io/badge/Django-%23000.svg?style=for-the-badge&logo=django&logoColor=white
-[Django-url]: https://djangoproject.com/
-[Git-badge]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[Git-url]: https://git-scm.com/
-[GitHub-badge]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[GitHub-url]: https://github.com/
-[HuggingFace-badge]: https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black
-[HuggingFace-url]: https://huggingface.co/
-[JupyterNotebook-badge]: https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white
-[JupyterNotebook-url]: https://jupyter.org/
-[Matplotlib-badge]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
-[Matplotlib-url]: https://matplotlib.org/
-[MySQL-badge]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-[MySQL-url]: https://www.mysql.com/
-[NumPy-badge]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
-[NumPy-url]: https://numpy.org/
-[Pandas-badge]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
-[Pandas-url]: https://pandas.pydata.org/
-[PowerBI-badge]: https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-[PowerBI-url]: https://powerbi.microsoft.com/en-us/
-[Plotly-badge]: https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white
-[Plotly-url]: https://plotly.com/python/
-[PyCharm-badge]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
-[PyCharm-url]: https://www.jetbrains.com/pycharm/
-[Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[Python-url]: https://www.python.org/
-[scikit-learn-badge]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
-[scikit-learn-url]: https://scikit-learn.org/stable/
-[Spark-badge]: https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white
-[Spark-url]: https://spark.apache.org/
-[Spyder-badge]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
-[Spyder-url]: https://www.spyder-ide.org/
-[TensorFlow-badge]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
-[TensorFlow-url]: https://www.tensorflow.org/
-[VisualStudioCode-badge]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-[VisualStudioCode-url]: https://code.visualstudio.com/
+Technology is ![awesome](https://awesome.re/badge.svg)
