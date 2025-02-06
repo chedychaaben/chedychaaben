@@ -119,7 +119,7 @@ I'm Chedy.
 ---
 
 ## 🌐 Let's Connect! 
-- 📫 How to reach me: chedy@chaaben.com
+- 📫 How to reach me: chedychaaben@gmail.com
 ---
 
 
