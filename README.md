@@ -15,12 +15,6 @@ I'm Chedy.
 
 ---
 
-## 🚧 Projects
-
-- **[Private Repo]():** Private Repo. **[And here's the repo]().**
-
----
-
 ## 🛠️ Tech Stack
 
 
