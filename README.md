@@ -125,6 +125,6 @@ I'm Chedy.
                              \    / 
                               ————
                              |    |
-                             |_   |_                                                                                                            - Elon Musk
+                             |_   |_                             - Elon Musk
 ``` 
 Technology is ![awesome](https://awesome.re/badge.svg)
