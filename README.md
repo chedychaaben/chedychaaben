@@ -2,10 +2,7 @@
 
 I'm Chedy.
 
-- Backend Developer 🖥️
-- Data Engineer 🛠️
-- Data Scientist 📊
-- Cloud Engineer ☁️
+- SWE Student 🖥️
 ---
 
 ## 🌟 About Me
