@@ -37,6 +37,7 @@ I'm Chedy.
 
 ### Frontend Frameworks
 - ![React](https://img.shields.io/badge/React-48CEF7?style=for-the-badge&logo=react&logoColor=white)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - ![Material-UI](https://img.shields.io/badge/Material--UI-0073E6?style=for-the-badge)
 
 ---
