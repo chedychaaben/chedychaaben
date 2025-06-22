@@ -118,12 +118,12 @@ I'm Chedy.
 
 ```
       |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
-      | AI is far more dangerous than nukes.         |
+      | HELLO WORLD.                                 |
       |______________________________________________|
                            \ (•◡•) / 
                              \    / 
                               ————
                              |    |
-                             |_   |_                             - Elon Musk
+                             |_   |_                    
 ``` 
 Technology is ![awesome](https://awesome.re/badge.svg)
