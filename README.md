@@ -8,7 +8,7 @@ I'm Chedy.
 ## 🌟 About Me
 
 - Passionate about **video games, sports, and music!**
-- Currently learning **aws & deep learning**.
+- Currently learning **aws, hadera dlt & deep learning**.
 
 ---
 
